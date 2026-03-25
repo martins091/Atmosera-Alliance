@@ -4,19 +4,19 @@ import { ScrollReveal } from "@/components/scroll-reveal";
 export function TeamMembers() {
   const members = [
     {
-      name: "Obele Ezugorie",
+      name: "Jake Slams",
       title: "Founder & Executive Director",
-      initials: "OE",
+      initials: "JS",
     },
     {
-      name: "Ofodile Emmanuel",
+      name: "Peter Hagreaves",
       title: "Director of Climate Program",
-      initials: "OE",
+      initials: "PH",
     },
     {
-      name: "Chisom Grace",
+      name: "John Griffin",
       title: "Director of Operations & Communication",
-      initials: "CG",
+      initials: "JG",
     },
   ];
 
