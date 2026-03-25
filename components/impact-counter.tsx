@@ -65,15 +65,14 @@ export function ImpactCounter() {
   }, [hasStarted])
 
   const stats = [
-    { icon: MapPin, label: "Communities Reached", value: `${counts.communities}+`, color: "text-[#6ECFF6]" },
-    { icon: Database, label: "Projects Monitored", value: `${counts.projects}+`, color: "text-[#2AA948]" },
-    { icon: GraduationCap, label: "Youth Trained", value: `${counts.youth}+`, color: "text-[#6ECFF6]" },
-    { icon: Users, label: "Climate Data Tools", value: `${counts.tools}+`, color: "text-[#2AA948]" },
+    { icon: MapPin, label: "Communities Engaged", value: `${counts.communities}+`, color: "text-[#6ECFF6]" },
+    { icon: Database, label: "Initiatives Delivered", value: `${counts.projects}+`, color: "text-[#2AA948]" },
+    { icon: GraduationCap, label: "Youth Empowered", value: `${counts.youth}+`, color: "text-[#6ECFF6]" },
+    { icon: Users, label: "Digital Climate Tools", value: `${counts.tools}+`, color: "text-[#2AA948]" },
   ]
 
   return (
     <section ref={sectionRef} className="py-24 relative overflow-hidden">
-      {/* Climate Image Background */}
       <div className="absolute inset-0">
         <img
           src="/renewable-energy-wind-solar-farm-landscape.jpg"
@@ -86,9 +85,11 @@ export function ImpactCounter() {
       <div className="container mx-auto px-4 relative z-10">
         <ScrollReveal>
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-white mb-4 glow-text text-balance">Our Global Impact</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-white mb-4 glow-text text-balance">
+              Impact at Scale
+            </h2>
             <p className="text-lg text-white/80 max-w-2xl mx-auto leading-relaxed">
-              Real numbers, real change — transforming climate action through data and community
+              Delivering measurable results through innovation, data, and collaborative climate action
             </p>
           </div>
         </ScrollReveal>
@@ -96,7 +97,7 @@ export function ImpactCounter() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {stats.map((stat, index) => (
             <ScrollReveal key={index} delay={index * 100}>
-              <div className=" rounded-2xl p-8 text-center hover:scale-105  h-full">
+              <div className="rounded-2xl p-8 text-center hover:scale-105 h-full">
                 <div className="flex justify-center mb-4">
                   <div className={`w-16 h-16 rounded-full bg-white/10 flex items-center justify-center ${stat.color}`}>
                     <stat.icon className="w-8 h-8" />

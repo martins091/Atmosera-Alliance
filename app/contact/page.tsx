@@ -17,7 +17,9 @@ export default function ContactPage() {
         </div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">Contact Us</h1>
+            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">
+              Contact Atmosera Alliance
+            </h1>
             <p className="text-xl text-white/80 leading-relaxed">
               Let's collaborate on climate action — reach out to our team
             </p>
@@ -33,8 +35,7 @@ export default function ContactPage() {
             <div>
               <h2 className="text-3xl font-bold text-[#003D73] mb-6">Get In Touch</h2>
               <p className="text-gray-600 leading-relaxed mb-8">
-                Whether you're interested in volunteering, partnering with us, or learning more about our work, we'd
-                love to hear from you. Our team typically responds within 24 hours.
+                Whether you're interested in volunteering, partnering with Atmosera Alliance, or learning more about our work, we'd love to hear from you. Our team typically responds within 24 hours.
               </p>
 
               <div className="space-y-6">
@@ -44,8 +45,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-bold text-[#003D73] mb-1">Email</h3>
-                    <p className="text-gray-600">info@climahorizon.org</p>
-                    <p className="text-gray-600">partnerships@climahorizon.org</p>
+                    <p className="text-gray-600">info@atmoseraalliance.org</p>
+                    <p className="text-gray-600">partnerships@atmoseraalliance.org</p>
                   </div>
                 </div>
 

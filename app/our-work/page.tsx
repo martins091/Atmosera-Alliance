@@ -62,7 +62,9 @@ export default function OurWorkPage() {
         </div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">Our Work</h1>
+            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">
+              Our Work at Atmosera Alliance
+            </h1>
             <p className="text-xl text-white/80 leading-relaxed">
               Transforming climate action through technology-driven initiatives and community empowerment
             </p>

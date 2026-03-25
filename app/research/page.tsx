@@ -42,7 +42,9 @@ export default function ResearchPage() {
         </div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">Research & Insights</h1>
+            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">
+              Research & Insights at Atmosera Alliance
+            </h1>
             <p className="text-xl text-white/80 leading-relaxed">
               Data-driven climate intelligence powering evidence-based action
             </p>
@@ -71,7 +73,7 @@ export default function ResearchPage() {
           <div className="max-w-4xl mx-auto text-center mb-16">
             <h2 className="text-4xl font-bold text-[#003D73] mb-6">Our Research Focus</h2>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Rigorous analysis and continuous monitoring to understand climate dynamics and inform adaptive strategies
+              Rigorous analysis and continuous monitoring by Atmosera Alliance to understand climate dynamics and inform adaptive strategies
             </p>
           </div>
 
@@ -98,7 +100,7 @@ export default function ResearchPage() {
           <div className="max-w-4xl mx-auto text-center mb-16">
             <h2 className="text-4xl font-bold text-[#003D73] mb-6">Climate Risk Reports</h2>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Download free community-focused climate risk assessments and adaptation guides
+              Download free community-focused climate risk assessments and adaptation guides from Atmosera Alliance
             </p>
           </div>
 

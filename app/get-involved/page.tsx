@@ -16,9 +16,11 @@ export default function GetInvolvedPage() {
         </div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">Get Involved</h1>
+            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">
+              Get Involved with Atmosera Alliance
+            </h1>
             <p className="text-xl text-white/90 leading-relaxed">
-              Every action matters — join us in building a sustainable future
+              Every action matters — join us in building a sustainable future for communities and the planet
             </p>
           </div>
         </div>
@@ -31,7 +33,7 @@ export default function GetInvolvedPage() {
             <div className="rounded-2xl overflow-hidden shadow-2xl">
               <img
                 src="/tree-planting-community-volunteers-in-forest.jpg"
-                alt="Community involvement"
+                alt="Community involvement with Atmosera Alliance"
                 className="w-full h-[400px] object-cover"
               />
             </div>
@@ -48,7 +50,7 @@ export default function GetInvolvedPage() {
                 icon: HandHeart,
                 title: "Volunteer",
                 description:
-                  "Join our field teams, help organize events, mentor youth, or contribute your professional skills to advance our mission.",
+                  "Join Atmosera Alliance field teams, help organize events, mentor youth, or contribute your professional skills to advance our climate mission.",
                 action: "Sign Up to Volunteer",
                 href: "/contact",
                 color: "from-[#6ECFF6] to-[#003D73]",
@@ -57,7 +59,7 @@ export default function GetInvolvedPage() {
                 icon: Building2,
                 title: "Partner",
                 description:
-                  "Organizations, corporations, and institutions can collaborate on research, technology deployment, or funding initiatives.",
+                  "Organizations, corporations, and institutions can collaborate with Atmosera Alliance on research, technology deployment, or funding initiatives.",
                 action: "Explore Partnerships",
                 href: "/contact",
                 color: "from-[#6ECFF6] to-[#2AA948]",
@@ -85,7 +87,7 @@ export default function GetInvolvedPage() {
             ))}
           </div>
 
-          {/* Call to Action - No Donation */}
+          {/* Call to Action */}
           <div className="max-w-4xl mx-auto">
             <div className="bg-gradient-to-b from-[#003D73] via-[#003D73] to-[#001a33] rounded-2xl p-12 text-center relative overflow-hidden shadow-2xl">
               <div className="absolute inset-0 opacity-5">
@@ -94,8 +96,8 @@ export default function GetInvolvedPage() {
               <div className="relative z-10">
                 <h2 className="text-4xl font-bold text-white mb-6">Be Part of the Change</h2>
                 <p className="text-xl text-white/90 mb-8 leading-relaxed max-w-2xl mx-auto">
-                  Whether you volunteer your time or partner with us, your involvement directly contributes to climate
-                  monitoring technology, youth training programs, and community environmental projects.
+                  Whether you volunteer your time or partner with Atmosera Alliance, your involvement directly contributes
+                  to climate monitoring technology, youth training programs, and community environmental projects.
                 </p>
                 <div className="flex flex-wrap justify-center gap-4">
                   <Link href="/contact">

@@ -25,9 +25,9 @@ export function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#6ECFF6] to-[#2AA948] flex items-center justify-center">
-              <span className="text-white font-bold text-xl">CH</span>
+              <span className="text-white font-bold text-xl">AA</span>
             </div>
-            <span className="font-bold text-xl text-white hidden md:block">ClimaHorizon</span>
+            <span className="font-bold text-xl text-white hidden md:block">AtmoseraAlliance</span>
           </Link>
 
           {/* Desktop Navigation */}

@@ -44,7 +44,9 @@ export default function ClimateTechPage() {
         </div>
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">Youth Climate Hub</h1>
+            <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">
+              Youth Climate Hub at Atmosera Alliance
+            </h1>
             <p className="text-xl text-white/90 leading-relaxed">
               Empowering the next generation of climate leaders and innovators
             </p>
@@ -66,9 +68,9 @@ export default function ClimateTechPage() {
             <div className="text-center">
               <h2 className="text-4xl font-bold text-[#003D73] mb-6">Building Tomorrow's Climate Leaders</h2>
               <p className="text-lg text-gray-600 leading-relaxed max-w-4xl mx-auto">
-                Young people are not just the future — they are the present drivers of climate action. Our Youth Climate
-                Hub provides the training, tools, and support system for youth to develop innovative solutions, lead
-                community projects, and advocate for systemic change.
+                Young people are not just the future — they are the present drivers of climate action. Atmosera
+                Alliance provides the training, tools, and support system for youth to develop innovative solutions,
+                lead community projects, and advocate for systemic change.
               </p>
             </div>
           </div>
@@ -119,7 +121,7 @@ export default function ClimateTechPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center mb-12">
             <h2 className="text-4xl font-bold text-[#003D73] mb-4">Youth Hub Impact</h2>
-            <p className="text-lg text-gray-600">Measurable results from our youth empowerment programs</p>
+            <p className="text-lg text-gray-600">Measurable results from Atmosera Alliance youth empowerment programs</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
@@ -151,7 +153,7 @@ export default function ClimateTechPage() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">Ready to Lead Climate Action?</h2>
             <p className="text-xl text-white/80 mb-8 leading-relaxed">
-              Join our youth programs and become part of a global movement building sustainable futures
+              Join Atmosera Alliance youth programs and become part of a global movement building sustainable futures
             </p>
             <Button
               size="lg"

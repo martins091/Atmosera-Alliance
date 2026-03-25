@@ -24,7 +24,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 text-balance">
-              About ClimaHorizon Initiative
+              About Atmosera Alliance
             </h1>
             <p className="text-xl text-white/80 leading-relaxed">
               Pioneering the convergence of technology and environmental action to build climate resilience
@@ -42,7 +42,7 @@ export default function AboutPage() {
                 <h2 className="text-4xl font-bold text-[#003D73] mb-8">Who We Are</h2>
                 <div className="prose prose-lg max-w-none">
                   <p className="text-gray-600 leading-relaxed mb-6">
-                    ClimaHorizon Initiative is a cutting-edge climate-tech organization at the forefront of
+                    Atmosera Alliance is a cutting-edge climate-tech organization at the forefront of
                     environmental innovation. We combine advanced artificial intelligence, data science, and grassroots
                     community engagement to address the most pressing challenges of climate change.
                   </p>
@@ -140,13 +140,13 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold text-white mb-6">Message from Our Founder</h2>
               <div className="prose prose-lg prose-invert max-w-none">
                 <p className="text-white/90 leading-relaxed mb-6">
-                  "ClimaHorizon Initiative was born from a simple belief: climate action must evolve beyond traditional
+                  "Atmosera Alliance was born from a simple belief: climate action must evolve beyond traditional
                   approaches. As I witnessed communities struggling with environmental degradation while lacking access
                   to actionable data, I realized that the intersection of technology and grassroots mobilization held
                   the key to transformative change.
                 </p>
                 <p className="text-white/90 leading-relaxed mb-6">
-                  We built ClimaHorizon to be more than an organization — it's a movement that equips communities with
+                  We built Atmosera Alliance to be more than an organization — it's a movement that equips communities with
                   AI-powered tools, empowers youth to lead innovation, and turns climate science into community
                   resilience. Every monitoring station we deploy, every young leader we train, and every tree we plant
                   represents a step toward a future where technology serves humanity's greatest challenge.

@@ -17,10 +17,10 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "ClimaHorizon Initiative | Technology Meets Climate Action",
+  title: "Atmosera Alliance | Technology Meets Climate Action",
   description:
     "Building a climate-resilient future through technology, innovation, and community action. AI-driven climate solutions for a changing world.",
-  keywords: ["climate change", "climate tech", "AI solutions", "environmental action", "sustainability"],
+  keywords: ["climate change", "climate tech", "AI solutions", "environmental action", "sustainability", "Atmosera Alliance"],
   generator: "v0.app",
   icons: {
     icon: [

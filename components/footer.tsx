@@ -15,9 +15,9 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#6ECFF6] to-[#2AA948] flex items-center justify-center">
-                <span className="text-white font-bold text-xl">CH</span>
+                <span className="text-white font-bold text-xl">AA</span>
               </div>
-              <span className="font-bold text-lg">ClimaHorizon</span>
+              <span className="font-bold text-lg">Atmosera Alliance</span>
             </div>
             <p className="text-white/80 text-sm leading-relaxed">
               Building a climate-resilient future through technology, innovation, and community action.
@@ -113,7 +113,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-center md:text-left">
-            <p className="text-white/70 text-sm">© 2025 ClimaHorizon Initiative. All rights reserved.</p>
+            <p className="text-white/70 text-sm">© 2025 Atmosera Alliance. All rights reserved.</p>
             <p className="text-white/50 text-xs mt-1">Developed by TinzWave Technology</p>
           </div>
           <Link href="/get-involved">
